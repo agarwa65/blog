@@ -1,0 +1,75 @@
+baseurl = "http://divyaagarwal.in/"
+theme = "tale"
+relativeURLs = false
+languageCode = "en-us"
+title = "Divya Agarwal"
+disqusShortname = "shortcode-here"
+paginate = 5
+
+[taxonomies]
+	tag = "tags"
+	tutorial = "tutorials"
+
+[params]
+	showglobe = true
+
+	favicon = "favicon.ico"
+	
+	analytics = "code-here"
+
+	email = "divs.agarwal31@gmail.com"
+
+	profilepic = "img/profile.jpg"
+	
+	title = "Divya Agarwal"
+	subtitle = "What I'm Thinking"
+
+	# Social buttons for sidebar
+	# Each of these are optional
+	[[params.socialbuttons]]
+	faicon = "github"
+	url = "https://github.com/agarwa65"
+	[[params.socialbuttons]]
+	faicon = "twitter"
+	url = "https://twitter.com/ag_divya"
+	[[params.socialbuttons]]
+	faicon = "linkedin"
+	url = "https://linkedin.com/diagarwa"
+	[[params.socialbuttons]]
+	faicon = "google-plus"
+	url = "https://plus.google.com/+YourID"
+
+	[[params.navlinks]]
+	name = "About"
+	url = "about"
+	
+	[[params.navlinks]]
+	name = "Blog"
+	url = ""
+
+[menu]
+
+    # Configure main menu entries (header)
+    # Currently set to list all taxonomies and posts
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 1
+
+    # Add some footer links to your likings
+    [[menu.footer]]
+        name = "GitHub"
+        url = "https://github.com/someauthor"
+        weight = 1
+
+    [[menu.footer]]
+        name = "Medium"
+        url = "https://medium.com/@someauthor"
+        weight = 3
+
+    [[menu.footer]]
+        name = "Twitter"
+        url = "https://twitter.com/someauthor"
+        weight = 2
+
