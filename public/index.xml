@@ -17,10 +17,11 @@
       <pubDate>Tue, 01 Jan 2019 19:34:16 -0800</pubDate>
       
       <guid>http://divyaagarwal.in/about/</guid>
-      <description>I am currently a software engineer at Microsoft. I was previously working at Delphi Automotive/Aptiv in their self-driving division in California.
+      <description> I am currently a software engineer at Microsoft. I was previously working at Delphi Automotive/Aptiv in their self-driving division in California.
 During my time at Aptiv, I made software tools for lidar data visualization and implemented algorithms for allowing HD map based localization.
-I have patent filings from Aptiv and Microsoft.
-My interests lie in Software Programming, Autonomous Vehicles, Deep Learning and Mapping.</description>
+I have patents with Aptiv and a patent recently filed with Microsoft.
+My interests lie in Software Programming, Autonomous Vehicles, Deep Learning and Mapping.
+Github LinkedIn Twitter </description>
     </item>
     
     <item>
@@ -29,8 +30,7 @@ My interests lie in Software Programming, Autonomous Vehicles, Deep Learning and
       <pubDate>Tue, 01 Jan 2019 19:34:16 -0800</pubDate>
       
       <guid>http://divyaagarwal.in/posts/hello2019/</guid>
-      <description>Happy New Year, everyone!
-2018 was a very exciting year for me with lots of learning and experiences. Onwards and upwards to 2019!</description>
+      <description>Happy New Year, everyone! 2018 was a very exciting year for me with lots of learning and experiences. Onwards and upwards to 2019!</description>
     </item>
     
   </channel>

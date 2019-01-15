@@ -1,5 +1,6 @@
 ---
 title: "About"
+author: "Divya Agarwal"
 date: 2019-01-01T19:34:16-08:00
 draft: false
 ---
@@ -8,10 +9,11 @@ I am currently a software engineer at [Microsoft](https://www.microsoft.com/en-u
 
 During my time at Aptiv, I made software tools for lidar data visualization and implemented algorithms for allowing HD map based localization. 
 
-I have patents with Aptiv and a patent recently filed with Microsoft.
+I have [patents](https://patents.justia.com/inventor/divya-agarwal) with Aptiv and a patent recently filed with Microsoft.
 
 My interests lie in Software Programming, Autonomous Vehicles, Deep Learning and Mapping.
 
-[Github](https://github.com/agarwa65) [Twitter](https://twitter.com/ag_divya)
+
+#### [Github](https://github.com/agarwa65) [LinkedIn](https://www.linkedin.com/in/dagarwa/) [Twitter](https://twitter.com/ag_divya)
 
 
